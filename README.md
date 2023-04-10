@@ -6,3 +6,6 @@ Y ahora voy a hacer una lista.
 - Tres
 
 Un [link](https://localhost.com/)
+
+## Un segundo subtitulo
+Este es el contenido de la segunda seccion
